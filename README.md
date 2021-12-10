@@ -17,7 +17,7 @@ However, in practice some architectures typically work better than others.
 - Improving a model
 - Making a prediction with a trained model
 
- **Contain a little experiment with data augmentation*
+ *Contains a little experiment with data augmentation*
 
 You can create a pip virtual environment and install the requirements:
 ```
